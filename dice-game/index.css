@@ -1,0 +1,30 @@
+body {
+    background-color: tomato;
+    text-align: center;
+    font-size: large;
+
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+
+button {
+    font-size: large;
+
+    margin-top: 25px;
+    padding: 16px 48px;
+    color: black;
+    background: white;
+
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover {
+    color: white;
+    background: black;
+
+}
